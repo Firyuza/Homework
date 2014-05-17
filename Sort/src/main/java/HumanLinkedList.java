@@ -43,19 +43,7 @@ public class HumanLinkedList {
     public boolean isEmpty() {
         return this.tail == null;
     }
-    /*public void add(Human human) {
-        Node node = new Node(human);
-        if (isEmpty()) {
-            this.head = node;
-            this.tail = node;
-            this.tail.setNext(null);
-        }
-        else {
-            node.setNext(this.head);
-            this.head = node;
-        }
-        this.current = this.head;
-    }*/
+    //was changed by lexicological sorting
     public void add(Human human) {
         Node node = new Node(human);
         if (isEmpty()) {
