@@ -68,7 +68,7 @@
       <file leaf-file-name="DrawFrame.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/DrawFrame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="0" selection-start="389" selection-end="389" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="391">
+            <state line="15" column="0" selection-start="389" selection-end="389" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="391">
               <folding />
             </state>
           </provider>
@@ -77,7 +77,7 @@
       <file leaf-file-name="Program.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Program.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="0" selection-start="754" selection-end="754" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="442">
+            <state line="21" column="0" selection-start="754" selection-end="754" vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="459">
               <folding />
             </state>
           </provider>
@@ -86,7 +86,7 @@
       <file leaf-file-name="DrawPanel.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/DrawPanel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="94" selection-start="1156" selection-end="1156" vertical-scroll-proportion="-0.38586956" vertical-offset="822" max-vertical-offset="1955">
+            <state line="68" column="0" selection-start="2131" selection-end="2170" vertical-scroll-proportion="1.3994565" vertical-offset="641" max-vertical-offset="2074">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -97,18 +97,8 @@
       <file leaf-file-name="QuickHull.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/QuickHull.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="126" column="16" selection-start="4096" selection-end="4096" vertical-scroll-proportion="0.0" vertical-offset="2301" max-vertical-offset="2669">
-              <folding>
-                <element signature="e#439#448#0" expanded="true" />
-                <element signature="e#507#516#0" expanded="true" />
-                <element signature="e#575#584#0" expanded="true" />
-                <element signature="e#2290#2291#0" expanded="true" />
-                <element signature="e#2325#2326#0" expanded="true" />
-                <element signature="e#2373#2374#0" expanded="true" />
-                <element signature="e#2410#2411#0" expanded="true" />
-                <element signature="e#3882#3891#0" expanded="true" />
-                <element signature="e#4125#4134#0" expanded="true" />
-              </folding>
+            <state line="126" column="16" selection-start="4096" selection-end="4096" vertical-scroll-proportion="0.0" vertical-offset="2142" max-vertical-offset="2737">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -126,17 +116,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/Point.java">
           <provider selected="true" editor-type-id="text-editor">
             <state line="5" column="56" selection-start="103" selection-end="103" vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="646">
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-                <element signature="e#270#271#0" expanded="true" />
-                <element signature="e#299#300#0" expanded="true" />
-                <element signature="e#324#325#0" expanded="true" />
-                <element signature="e#353#354#0" expanded="true" />
-                <element signature="e#384#385#0" expanded="true" />
-                <element signature="e#410#411#0" expanded="true" />
-                <element signature="e#441#442#0" expanded="true" />
-                <element signature="e#467#468#0" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -145,9 +125,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/Line.java">
           <provider selected="true" editor-type-id="text-editor">
             <state line="53" column="7" selection-start="1339" selection-end="1339" vertical-scroll-proportion="0.0" vertical-offset="771" max-vertical-offset="1139">
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -216,8 +194,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -292,6 +268,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -585,16 +563,18 @@
       <workItem from="1406392367747" duration="925000" />
       <workItem from="1406396083188" duration="6264000" />
       <workItem from="1406478705299" duration="4193000" />
-      <workItem from="1406489985013" duration="2184000" />
+      <workItem from="1406489985013" duration="2781000" />
+      <workItem from="1406493067693" duration="17000" />
+      <workItem from="1406561363030" duration="1111000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49216000" />
+    <option name="totallyTimeSpent" value="50941000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -616,11 +596,11 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.100453176" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32879046" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -648,17 +628,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/QuickHull.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="122" column="5" selection-start="230" selection-end="4032" vertical-scroll-proportion="0.0" vertical-offset="2074" max-vertical-offset="2210">
-          <folding>
-            <element signature="e#439#448#0" expanded="true" />
-            <element signature="e#507#516#0" expanded="true" />
-            <element signature="e#575#584#0" expanded="true" />
-            <element signature="e#2290#2291#0" expanded="true" />
-            <element signature="e#2325#2326#0" expanded="true" />
-            <element signature="e#2373#2374#0" expanded="true" />
-            <element signature="e#2410#2411#0" expanded="true" />
-            <element signature="e#3882#3891#0" expanded="true" />
-            <element signature="e#4125#4134#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -672,26 +642,14 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/Point.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="27" column="1" selection-start="404" selection-end="404" vertical-scroll-proportion="0.0" vertical-offset="459" max-vertical-offset="578">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#270#271#0" expanded="true" />
-            <element signature="e#299#300#0" expanded="true" />
-            <element signature="e#324#325#0" expanded="true" />
-            <element signature="e#353#354#0" expanded="true" />
-            <element signature="e#384#385#0" expanded="true" />
-            <element signature="e#410#411#0" expanded="true" />
-            <element signature="e#441#442#0" expanded="true" />
-            <element signature="e#467#468#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Line.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="36" column="5" selection-start="67" selection-end="1084" vertical-scroll-proportion="0.0" vertical-offset="329" max-vertical-offset="765">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -712,17 +670,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/QuickHull.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="116" column="0" selection-start="3696" selection-end="3696" vertical-scroll-proportion="0.0" vertical-offset="1972" max-vertical-offset="2329">
-          <folding>
-            <element signature="e#439#448#0" expanded="true" />
-            <element signature="e#507#516#0" expanded="true" />
-            <element signature="e#575#584#0" expanded="true" />
-            <element signature="e#2290#2291#0" expanded="true" />
-            <element signature="e#2325#2326#0" expanded="true" />
-            <element signature="e#2373#2374#0" expanded="true" />
-            <element signature="e#2410#2411#0" expanded="true" />
-            <element signature="e#3882#3891#0" expanded="true" />
-            <element signature="e#4125#4134#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -736,26 +684,14 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/Point.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="28" column="0" selection-start="405" selection-end="405" vertical-scroll-proportion="0.0" vertical-offset="476" max-vertical-offset="578">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#270#271#0" expanded="true" />
-            <element signature="e#299#300#0" expanded="true" />
-            <element signature="e#324#325#0" expanded="true" />
-            <element signature="e#353#354#0" expanded="true" />
-            <element signature="e#384#385#0" expanded="true" />
-            <element signature="e#410#411#0" expanded="true" />
-            <element signature="e#441#442#0" expanded="true" />
-            <element signature="e#467#468#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Line.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="33" column="0" selection-start="936" selection-end="936" vertical-scroll-proportion="0.0" vertical-offset="404" max-vertical-offset="731">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -786,17 +722,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/QuickHull.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="52" column="0" selection-start="1581" selection-end="1581" vertical-scroll-proportion="0.0" vertical-offset="775" max-vertical-offset="2346">
-          <folding>
-            <element signature="e#439#448#0" expanded="true" />
-            <element signature="e#507#516#0" expanded="true" />
-            <element signature="e#575#584#0" expanded="true" />
-            <element signature="e#2290#2291#0" expanded="true" />
-            <element signature="e#2325#2326#0" expanded="true" />
-            <element signature="e#2373#2374#0" expanded="true" />
-            <element signature="e#2410#2411#0" expanded="true" />
-            <element signature="e#3882#3891#0" expanded="true" />
-            <element signature="e#4125#4134#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -810,26 +736,14 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/Point.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="28" column="0" selection-start="405" selection-end="405" vertical-scroll-proportion="0.0" vertical-offset="476" max-vertical-offset="578">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#270#271#0" expanded="true" />
-            <element signature="e#299#300#0" expanded="true" />
-            <element signature="e#324#325#0" expanded="true" />
-            <element signature="e#353#354#0" expanded="true" />
-            <element signature="e#384#385#0" expanded="true" />
-            <element signature="e#410#411#0" expanded="true" />
-            <element signature="e#441#442#0" expanded="true" />
-            <element signature="e#467#468#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Line.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="25" selection-start="115" selection-end="115" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="731">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -853,43 +767,21 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/Point.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="28" column="0" selection-start="405" selection-end="405" vertical-scroll-proportion="0.0" vertical-offset="476" max-vertical-offset="578">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#270#271#0" expanded="true" />
-            <element signature="e#299#300#0" expanded="true" />
-            <element signature="e#324#325#0" expanded="true" />
-            <element signature="e#353#354#0" expanded="true" />
-            <element signature="e#384#385#0" expanded="true" />
-            <element signature="e#410#411#0" expanded="true" />
-            <element signature="e#441#442#0" expanded="true" />
-            <element signature="e#467#468#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Line.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="35" column="5" selection-start="1118" selection-end="1118" vertical-scroll-proportion="0.0" vertical-offset="595" max-vertical-offset="731">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/QuickHull.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="90" column="37" selection-start="2724" selection-end="2724" vertical-scroll-proportion="0.0" vertical-offset="1147" max-vertical-offset="2040">
-          <folding>
-            <element signature="e#439#448#0" expanded="true" />
-            <element signature="e#507#516#0" expanded="true" />
-            <element signature="e#575#584#0" expanded="true" />
-            <element signature="e#2290#2291#0" expanded="true" />
-            <element signature="e#2325#2326#0" expanded="true" />
-            <element signature="e#2373#2374#0" expanded="true" />
-            <element signature="e#2410#2411#0" expanded="true" />
-            <element signature="e#3882#3891#0" expanded="true" />
-            <element signature="e#4125#4134#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -903,43 +795,21 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/Point.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="28" column="0" selection-start="405" selection-end="405" vertical-scroll-proportion="0.0" vertical-offset="476" max-vertical-offset="578">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#270#271#0" expanded="true" />
-            <element signature="e#299#300#0" expanded="true" />
-            <element signature="e#324#325#0" expanded="true" />
-            <element signature="e#353#354#0" expanded="true" />
-            <element signature="e#384#385#0" expanded="true" />
-            <element signature="e#410#411#0" expanded="true" />
-            <element signature="e#441#442#0" expanded="true" />
-            <element signature="e#467#468#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Line.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="35" column="5" selection-start="1118" selection-end="1118" vertical-scroll-proportion="0.0" vertical-offset="595" max-vertical-offset="731">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/QuickHull.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="35" column="13" selection-start="1019" selection-end="1019" vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="1292">
-          <folding>
-            <element signature="e#439#448#0" expanded="true" />
-            <element signature="e#507#516#0" expanded="true" />
-            <element signature="e#575#584#0" expanded="true" />
-            <element signature="e#2290#2291#0" expanded="true" />
-            <element signature="e#2325#2326#0" expanded="true" />
-            <element signature="e#2373#2374#0" expanded="true" />
-            <element signature="e#2410#2411#0" expanded="true" />
-            <element signature="e#3882#3891#0" expanded="true" />
-            <element signature="e#4125#4134#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -953,26 +823,14 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/Point.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="28" column="0" selection-start="405" selection-end="405" vertical-scroll-proportion="0.0" vertical-offset="476" max-vertical-offset="578">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#270#271#0" expanded="true" />
-            <element signature="e#299#300#0" expanded="true" />
-            <element signature="e#324#325#0" expanded="true" />
-            <element signature="e#353#354#0" expanded="true" />
-            <element signature="e#384#385#0" expanded="true" />
-            <element signature="e#410#411#0" expanded="true" />
-            <element signature="e#441#442#0" expanded="true" />
-            <element signature="e#467#468#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Line.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="35" column="20" selection-start="1100" selection-end="1100" vertical-scroll-proportion="0.0" vertical-offset="595" max-vertical-offset="748">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -986,26 +844,14 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/Point.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="26" column="5" selection-start="392" selection-end="392" vertical-scroll-proportion="0.0" vertical-offset="442" max-vertical-offset="578">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#270#271#0" expanded="true" />
-            <element signature="e#299#300#0" expanded="true" />
-            <element signature="e#324#325#0" expanded="true" />
-            <element signature="e#353#354#0" expanded="true" />
-            <element signature="e#384#385#0" expanded="true" />
-            <element signature="e#410#411#0" expanded="true" />
-            <element signature="e#441#442#0" expanded="true" />
-            <element signature="e#467#468#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Line.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="5" selection-start="461" selection-end="461" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="391">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1019,26 +865,14 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/Point.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="26" column="5" selection-start="392" selection-end="392" vertical-scroll-proportion="0.0" vertical-offset="442" max-vertical-offset="578">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#270#271#0" expanded="true" />
-            <element signature="e#299#300#0" expanded="true" />
-            <element signature="e#324#325#0" expanded="true" />
-            <element signature="e#353#354#0" expanded="true" />
-            <element signature="e#384#385#0" expanded="true" />
-            <element signature="e#410#411#0" expanded="true" />
-            <element signature="e#441#442#0" expanded="true" />
-            <element signature="e#467#468#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Line.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="5" selection-start="461" selection-end="461" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="391">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1083,9 +917,7 @@
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar!/jdk/internal/org/objectweb/asm/ClassWriter.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="159" column="8" selection-start="7529" selection-end="7529" vertical-scroll-proportion="0.28649634" vertical-offset="2546" max-vertical-offset="3094">
-          <folding />
-        </state>
+        <state line="159" column="8" selection-start="7529" selection-end="7529" vertical-scroll-proportion="0.28649634" vertical-offset="2546" max-vertical-offset="3094" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/DrawFrame.java">
@@ -1105,49 +937,27 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/QuickHull.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="126" column="16" selection-start="4096" selection-end="4096" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="2669">
-          <folding>
-            <element signature="e#439#448#0" expanded="true" />
-            <element signature="e#507#516#0" expanded="true" />
-            <element signature="e#575#584#0" expanded="true" />
-            <element signature="e#2290#2291#0" expanded="true" />
-            <element signature="e#2325#2326#0" expanded="true" />
-            <element signature="e#2373#2374#0" expanded="true" />
-            <element signature="e#2410#2411#0" expanded="true" />
-            <element signature="e#3882#3891#0" expanded="true" />
-            <element signature="e#4125#4134#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Point.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="56" selection-start="103" selection-end="103" vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="646">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#270#271#0" expanded="true" />
-            <element signature="e#299#300#0" expanded="true" />
-            <element signature="e#324#325#0" expanded="true" />
-            <element signature="e#353#354#0" expanded="true" />
-            <element signature="e#384#385#0" expanded="true" />
-            <element signature="e#410#411#0" expanded="true" />
-            <element signature="e#441#442#0" expanded="true" />
-            <element signature="e#467#468#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Line.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="53" column="7" selection-start="1339" selection-end="1339" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1139">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/DrawPanel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="94" selection-start="1156" selection-end="1156" vertical-scroll-proportion="-0.38586956" vertical-offset="822" max-vertical-offset="1955">
+        <state line="68" column="0" selection-start="2131" selection-end="2170" vertical-scroll-proportion="1.3994565" vertical-offset="641" max-vertical-offset="2074">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

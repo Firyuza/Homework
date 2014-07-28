@@ -60,8 +60,15 @@ public class DrawPanel extends JPanel {
         this.sortingSet.add(copySet.get(x));
         copySet.remove(x);
 
+        int m = 0;
+        for (int i = 0; i < n - 1; i++) {
+            if (this.quickHull.getMainSet().get(copySet.get(i)).getX() >= this.quickHull.getMainSet().get(min).getX()) {
+                m++;
+            }
+        }
+
         int j = 0;
-        while(j < n / 2) {
+        while(j < m) {
             int cur = -1;
             for (int i = 0; i < copySet.size(); i++) {
                 if ( cur != -1) {
